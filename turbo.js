@@ -4,7 +4,7 @@
 
 function turbo() {
   for(let i = 0; i < 100000; i++){
-    console.log("Memory and CPU is now optimized");
+    console.log("Memory now optimized");
   }
   return turbo();
 }
