@@ -1,5 +1,5 @@
 # turbo-memory
-Just a bunch of random stuff to demonstrate git!
+Just a bunch of random stuff to show git!
 
 ## En readme är bra att ha
 Det är bra att ha en readme i projektet för att:
